@@ -35,17 +35,22 @@ speech-to-text-summarization/
 
 ## Installation
 
-```bash
+### 1. Clone the repository
+
 git clone https://github.com/naveenkumar-analyst/speech-to-text-summarization.git
 cd speech-to-text-summarization
+
+### 2. Install Python dependencies
+
 pip install -r requirements.txt
-```
 
-## How to Run
+### 3. Install FFmpeg
 
-```bash
+Whisper requires FFmpeg for audio processing.
+
+### 4. Run the application
+
 python summ.py
-```
 
 ## Future Enhancements
 
