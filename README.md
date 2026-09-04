@@ -17,9 +17,11 @@ This project explores speech processing and text summarization to make spoken in
 ## Technologies Used
 
 - Python
-- Speech Recognition
-- Natural Language Processing
-- Text Summarization
+- Tkinter
+- SoundDevice
+- NumPy
+- OpenAI Whisper
+- Hugging Face Transformers
 
 ## Project Structure
 
